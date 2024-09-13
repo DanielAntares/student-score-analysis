@@ -62,6 +62,3 @@ The final models are evaluated based on several metrics including MAE, RMSE, and
 
 ## 9. Conclusions and Next Steps
 The analysis provides insights into the key factors influencing student performance and suggests further areas of research, such as deeper dives into individual feature impacts and exploring ensemble techniques.
-
-## Contributions
-Contributions to this project are welcome, especially in the areas of feature engineering and advanced modeling techniques.
